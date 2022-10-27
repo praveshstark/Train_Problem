@@ -1,13 +1,13 @@
 {
-  "name": "trainproblem",
+  "name": "geektrust",
   "version": "1.0.0",
-  "description": "trainproblem-project",
+  "description": "geektrust-project",
   "main": "index.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node geektrust.js",
     "test": "mocha"
   },
-  "author": "trainproblem",
+  "author": "geektrust",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.3.6",
