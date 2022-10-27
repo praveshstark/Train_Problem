@@ -1,0 +1,15 @@
+{
+  "name": "trainproblem",
+  "version": "1.0.0",
+  "description": "trainproblem-project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "mocha"
+  },
+  "author": "trainproblem",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
