@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const main = require('../main');
+const main = require('../geektrust');
 
 describe('Test to check The order of bogies for train A  and Train B while arriving at Hyderabad', () => {
   it('Should return Train_A ENGINE NDL NDL GHY NJP NGP', () => {
